@@ -1,0 +1,20 @@
+// Yt vid = https://www.youtube.com/watch?v=31k6AtW-b3Y
+// Whiteboard - https://app.eraser.io/workspace/yTPql82lXyOpbyX63Xgn
+Helps to replicate environment for multi users globally.
+
+container {OS, tools, Node, mongo} -> multipleCopies
+canCopy&RunInDifferentDevices
+noNeedToChange&CreateNewEnvironment, etc...
+
+Docker Daemon, Docker Desktop
+
+docker run -it ubuntu
+
+hub.docker.com (like github for public containers)
+
+What is Image? What is Container?
+Images works like OS
+Containers are isolated
+Multiple containers, one image 
+
+// https://gist.github.com/piyushgarg-dev/ea8c5aa52de0496753b88cd938abd728
