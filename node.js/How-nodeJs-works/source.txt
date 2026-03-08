@@ -1,0 +1,2 @@
+1. Priyam Garg yt vid - How NodeJs Works?
+2. NodeJs official doc - https://nodejs.org/en/learn/asynchronous-work/event-loop-timers-and-nexttick
