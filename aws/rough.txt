@@ -1,0 +1,14 @@
+IAM
+EC2
+S3
+ECR
+ECS
+EKS
+Cloudwatch
+Cloudtrail
+RDS - veryExpensiveService
+DocumentDB (like mongoDB)
+Elastic Cache
+SQS - simple queue services
+SNS - simple notification services
+SES - simple email services
