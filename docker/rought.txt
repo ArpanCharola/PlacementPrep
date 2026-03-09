@@ -17,4 +17,18 @@ Images works like OS
 Containers are isolated
 Multiple containers, one image 
 
+ubuntu
+node 
+mongodb
+redis
+
+cmds:
+docker run -it <img_name>
+docker images
+docker run -it node
+
+*Port Mapping*
+node.js *port:8000* ---> mapping in different browsers, etc
+cmd - docker run -it p 1025:1025 <img_name>
+ 
 // https://gist.github.com/piyushgarg-dev/ea8c5aa52de0496753b88cd938abd728
